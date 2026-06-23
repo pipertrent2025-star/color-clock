@@ -1,0 +1,6 @@
+{
+  "name": "Meditative Coloring Timer",
+  "description": "A calm, minimal timer for coloring sessions with ambient backgrounds and mindful reflection loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
